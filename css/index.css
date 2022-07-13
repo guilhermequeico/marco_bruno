@@ -2,6 +2,10 @@ header {
     background-color: #7C5E99;
 }
 
+nav {
+    text-align: right;
+}
+
 a {
     color: #FFF;
     font-size: 20px;
